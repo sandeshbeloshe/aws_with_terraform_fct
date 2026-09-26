@@ -18,4 +18,6 @@ C:\aws_with_terraform_fct\.gitignore
 .terraform.lock.hcl
 .terraform/
 *.tfstate
+*.tfstate.*.terraform/
+*.tfstate
 *.tfstate.*
