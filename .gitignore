@@ -6,3 +6,16 @@ Day-01/.terraform/providers/registry.terraform.io/hashicorp/aws/6.66.0/windows_a
 
 C:\aws_with_terraform_fct\Day-02\.terraform
 C:\aws_with_terraform_fct\Day-02\.terraform.lock.hcl
+C:\aws_with_terraform_fct\Day-02\.terraform.lock.hcl
+C:\aws_with_terraform_fct\Day-02\.terraform
+C:\aws_with_terraform_fct\Day-02\.terraform\providers
+C:\aws_with_terraform_fct\Day-02\.terraform\providers\registry.terraform.io
+C:\aws_with_terraform_fct\Day-02\.terraform\terraform.tfstate
+C:\aws_with_terraform_fct\.gitignore
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+.terraform/
+*.tfstate
+*.tfstate.*
