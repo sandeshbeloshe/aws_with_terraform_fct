@@ -21,3 +21,5 @@ C:\aws_with_terraform_fct\.gitignore
 *.tfstate.*.terraform/
 *.tfstate
 *.tfstate.*
+C:\aws_with_terraform_fct\environments\storage\S3\dev\.terraform
+C:\aws_with_terraform_fct\environments\storage\S3\dev\.terraform.lock.hcl
